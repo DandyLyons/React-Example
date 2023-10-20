@@ -30,11 +30,11 @@
      npx degit CodelyTV/vite-react_best_practices-template#main my-app
      ```
 2. Update your project meta-information:
-   - [ ] Update the [`package.json`](https://github.com/CodelyTV/vite-react_best_practices-template/blob/main/package.json):
-     - [ ] Specify proper values for the `name`, `author` and `license` properties
-     - [ ] Remove the `private` property if you plan to publish the app as a npm package
-   - [ ] Change the author in [`LICENSE`](https://github.com/CodelyTV/vite-react_best_practices-template/blob/main/LICENSE)
-   - [ ] Change the title in [`index.html`](https://github.com/CodelyTV/vite-react_best_practices-template/blob/main/index.html)
+   - [x] Update the [`package.json`](https://github.com/CodelyTV/vite-react_best_practices-template/blob/main/package.json):
+     - [x] Specify proper values for the `name`, `author` and `license` properties
+     - [x] Remove the `private` property if you plan to publish the app as a npm package
+   - [x] Change the author in [`LICENSE`](https://github.com/CodelyTV/vite-react_best_practices-template/blob/main/LICENSE)
+   - [x] Change the title in [`index.html`](https://github.com/CodelyTV/vite-react_best_practices-template/blob/main/index.html)
    - [ ] Replace the favicon in the [`public`](https://github.com/CodelyTV/vite-react_best_practices-template/blob/main/public) directory
    - [ ] Clean up this [`README.md`](https://github.com/CodelyTV/vite-react_best_practices-template/blob/main/README.md)
 3. Run your app:
