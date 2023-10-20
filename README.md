@@ -7,6 +7,7 @@ This project is an example app of a React application written by former students
 
 ## Getting Started
 
+- Please read through all of CONTRIBUTING.md
 - Fork this repository. 
 - Clone your fork. 
 - `cd React-Example`: Move to your project root directory
@@ -38,9 +39,7 @@ For more details on contributing, please see CONTRIBUTING.md.
 ## Tech Stack
 
 **Client:** React
-
 **Server:** Node
-
 **Testing:** Jest
 ## Features
 
