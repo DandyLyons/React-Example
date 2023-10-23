@@ -17,7 +17,7 @@ This project is an example app of a React application written by former students
 
 ## Roadmap
 
-- [ ] Pick a free design on Figma. (Go to the [GitHub Discussions page](https://github.com/DandyLyons/React-Example/discussions/3) of this repo to submit suggestions. I will pick a design before Tuesday.)
+- [x] Pick a free design on Figma. (Go to the [GitHub Discussions page](https://github.com/DandyLyons/React-Example/discussions/3) of this repo to submit suggestions. I will pick a design before Tuesday.)
 - [ ] Generate issues to work on.
 - [ ] Assign issues to pair programmer teams.
 - [ ] Create a *Contributors* page within the React app, to highlight all the contributors. 
