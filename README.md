@@ -1,5 +1,5 @@
 
-# Project Title
+# React Example
 
 This project is an example app of a React application written by former students of the Hack Reactor coding bootcamp. 
 
