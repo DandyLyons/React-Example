@@ -1,3 +1,4 @@
+import Navigation from "./Navigation/Navigation";
 import { UserCard } from "./sections/users/UserCard";
 import { useUsers } from "./sections/users/useUsers";
 
@@ -6,7 +7,7 @@ export function App() {
 
 	return (
 		<div className="App">
-			Test
+			< Navigation />
 		</div>
 	);
 }

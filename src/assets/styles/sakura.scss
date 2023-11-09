@@ -1,23 +1,10 @@
-/* stylelint-disable */
-/* Sakura.css v1.4.1
- * ================
- * Minimal css theme.
- * Project: https://github.com/oxalorg/sakura/
- */
-/* Body */
+* {
+  margin: 0;
+  padding: 0;
+}
 html {
   font-size: 62.5%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-}
-
-body {
-  font-size: 1.8rem;
-  line-height: 1.618;
-  max-width: 38em;
-  margin: auto;
-  color: #4a4a4a;
-  background-color: #f9f9f9;
-  padding: 13px;
 }
 
 @media (max-width: 684px) {
@@ -101,11 +88,11 @@ a:hover {
 ul {
   padding-left: 1.4em;
   margin-top: 0px;
-  margin-bottom: 2.5rem;
+  margin-bottom: 0px;
 }
 
 li {
-  margin-bottom: 0.4em;
+  margin-bottom: 0rem;
 }
 
 blockquote {
@@ -129,7 +116,7 @@ video {
   height: auto;
   max-width: 100%;
   margin-top: 0px;
-  margin-bottom: 2.5rem;
+  margin-bottom: 0rem;
 }
 
 /* Pre and Code */
