@@ -1,0 +1,77 @@
+.Navigation {
+    display: flex;
+    background-color: #FBECDD;
+    height: 116px;
+    padding: 20px 160px;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.leftContent {
+    display: flex;
+    width: 559px;
+    align-items: center;
+    gap: 80px;
+    flex-shrink: 0;
+}
+.BeehiveLogo {
+    display: inline-flex;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo {
+    width: 28.166px;
+    height: 32.523px;
+}
+
+.name {
+    color: #072047;
+    font-family: Manrope;
+    font-size: 22.691px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 22.691px;
+}
+
+.navbarMenu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.navbarMenuItem {
+    color: #072047;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%; /* 19.6px */
+    letter-spacing: 1px;
+}
+
+.navbarMenuItem:hover {
+    color: blue;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%; /* 19.6px */
+    letter-spacing: 1px;
+}
+
+.topIcons {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 40px;
+    list-style: none;
+}
+
+.topIconsItem:hover{
+    border: solid 2px blue;
+}
